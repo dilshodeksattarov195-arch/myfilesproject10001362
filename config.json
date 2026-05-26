@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "productdetch",
+        "uuid": 566592,
+        "checksum": "qaay5"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
